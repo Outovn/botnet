@@ -1,0 +1,21 @@
+TOKEN = "7618960911:AAENrk5_VGZuSpGANkkV2mFK_jBNLHt5myI" # Токен бота
+CRYPTO = "305127:AAu7wF4DQ58l2ivZVL3EzCGNyrNaApgzDaB" # Токен CryptoBot
+ADMINS = [2052105858, 834933723] # ID Админов
+
+# Bot Options
+bot_name = "Hevolos Snos"
+bot_logs = "-1002288266719"
+bot_channel_link = "https://t.me/+0ypi1tnmexA5Mjli"
+bot_admin = "@Psyhobrailka, @ViloTag"
+bot_documentation = "https://t.me/+0ypi1tnmexA5Mjli"
+bot_works = "https://t.me/Hvsroboti"
+bot_reviews = "https://t.me/otzivhev"
+
+
+# Price
+subscribe_1_day = 2
+subscribe_7_days = 7
+subscribe_14_days = 69.99
+subscribe_30_days = 15
+subscribe_365_days = 69.99
+subscribe_infinity_days = 30
