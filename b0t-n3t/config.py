@@ -1,4 +1,4 @@
-TOKEN = "7954736279:AAHZGbor7h7PRh10GsiCj_1vvZ8w84VFzhU" # Токен бота
+TOKEN VFzhU" # Токен бота
 CRYPTO = "355888:AAYpaSfO8p5RnS3ed7pE1SX3json4DJGzfX" # Токен CryptoBot
 ADMINS = [7490640982] # ID Админов
 
